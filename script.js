@@ -1,0 +1,11 @@
+let ism = prompt ('Ismingizni kiriting.')
+let familiya = prompt ('Familiyangizni kiriting.')
+let yosh = prompt ('Yoshingizni kiriting.')
+let yoqtirganfan = prompt ('Yoqtirgan faningizni yozing')
+let manzil = prompt ('Yashaydigan tumaningizni kiriting')
+
+console.log( "Ism " + ": " + " " + ism)
+console.log( "Familiya" + ": " + " " + familiya)
+console.log( "Yosh" + ":" + " " + yosh )
+console.log( "Yoqtirgan fan" + ": " + " " + yoqtirganfan)
+console.log( "Yashash manzili" + ": " + " " + manzil)
